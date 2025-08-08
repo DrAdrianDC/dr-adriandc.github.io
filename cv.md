@@ -17,4 +17,4 @@ Download the latest version of my resume here:
 ## 🎓 Education
 
 - PhD in Physics – University of Bremen, Germany  
-- BSc in Radiochemistry – InSTEC, University of Havana
+- BSc in Radiochemistry – InSTEC, University of Havana, Cuba
