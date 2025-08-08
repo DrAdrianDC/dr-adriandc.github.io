@@ -3,7 +3,7 @@
 
 Download the latest version of my resume here:  
 
-👉 [Download my CV (PDF)](CV-Adrian.pdf)
+👉 [Download my CV (PDF)](CV-Adrian_Dominguez-PhD.pdf)
 
 
 ## 🧠 Technical Skills
