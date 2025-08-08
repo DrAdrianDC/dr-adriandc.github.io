@@ -1,7 +1,7 @@
 
 
 
-![Adrian Dominguez Castro](profile.jpg){:style="width: 180px; border-radius: 50%;"}
+![Adrian Dominguez Castro](profile.jpg)
 
 # Adrian Dominguez Castro, PhD 
 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 | 𝗖𝗼𝗺𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝗺𝗶𝘀𝘁
