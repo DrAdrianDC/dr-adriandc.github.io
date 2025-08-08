@@ -1,9 +1,9 @@
----
-layout: home
-title: "Home"
----
+
 
 # 👋 Hello! I'm Adrian Dominguez Castro
+
+![Adrian Dominguez Castro](profile.jpg){:style="width: 180px; border-radius: 50%;"}
+
 
 I’m a Data Scientist with a PhD in Science and extensive experience in machine learning, applied statistics, data visualization, and interdisciplinary research.
 
