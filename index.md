@@ -16,4 +16,4 @@ I’ve worked across five countries (Cuba, Canada, The Netherlands, Germany, and
 
 Beyond technical expertise, I bring a global perspective, a commitment to innovation, and a track record of collaboration across diverse teams and sectors. Whether it's building predictive models, software development, analyzing data trends, or implementing scalable machine learning solutions, I am passionate about leveraging data to drive insights and informed decision-making.
 
-👉 [View Projects](projects.md) | [CV](cv.md) | [Contact](contact.md)
+👉 [View Portfolio](portfolio.md) | [CV](cv.md) | [Contact](contact.md)
