@@ -1,3 +1,8 @@
+---
+layout: page
+title: Portfolio
+---
+
 
 # 📂 Featured Projects
 
