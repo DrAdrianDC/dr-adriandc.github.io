@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+---
+
+
 # Publications
 
 For the full list of my research publications, please visit my  
