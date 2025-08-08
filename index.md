@@ -1,18 +1,12 @@
 ---
 layout: home
-title: "Adrian Dominguez Castro"
+title: "Inicio"
 ---
 
-# ¡Hola! 👋
+# 👋 ¡Hola! Soy Adrian Dominguez Castro
 
-Soy científico de datos con experiencia en Machine Learning, análisis estadístico y visualización.
+Científico de datos con experiencia en Machine Learning, estadística aplicada, visualización de datos y desarrollo de proyectos interdisciplinarios.
 
-## 📂 Proyectos Destacados
+Soy PhD en Ciencias y he liderado equipos internacionales en el cruce entre ciencia, datos y tecnología.
 
-- 🔬 [Clasificación de Cáncer de Mama con SVM](https://github.com/dr-adriandc/breast-cancer-svm)
-- 📊 [Análisis de COVID-19 con SQL](https://github.com/dr-adriandc/covid19-sql)
-
-## 📫 Contacto
-
-- [GitHub](https://github.com/dr-adriandc)
-- [LinkedIn](https://linkedin.com/in/tu-linkedin)
+👉 [Ver proyectos](projects.md) | [CV](cv.md) | [Contacto](contact.md)
