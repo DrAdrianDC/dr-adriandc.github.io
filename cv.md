@@ -1,13 +1,10 @@
----
-layout: page
-title: "CV"
-permalink: /cv/
----
 
 # 📄 Curriculum Vitae
 
 Download the latest version of my resume here:  
-👉 [CV-Adrian.pdf](CV-Adrian.pdf)
+
+👉 [Download my CV (PDF)](CV-Adrian.pdf)
+
 
 ## 🧠 Technical Skills
 
@@ -19,5 +16,5 @@ Download the latest version of my resume here:
 
 ## 🎓 Education
 
-- PhD in Science – University XYZ  
-- BSc in Mathematics – University ABC
+- PhD in Physics – University of Bremen, Germany  
+- BSc in Radiochemistry – InSTEC, University of Havana
