@@ -1,6 +1,7 @@
 
 
-# 👋 Hello! I'm Adrian Dominguez Castro
+#  Hello! I'm Adrian Dominguez Castro
+
 
 ![Adrian Dominguez Castro](profile.jpg){:style="width: 180px; border-radius: 50%;"}
 
