@@ -1,7 +1,8 @@
 
 
-![Adrian Dominguez Castro](profile.jpg)
 
+<img src="profile.jpg" alt="Adrian Dominguez Castro, PhD" 
+     style="width:180px; height:180px; object-fit:cover; border-radius:50%; border: 2px solid #ccc;">
 
  
 With over a decade of experience in 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗤𝘂𝗮𝗻𝘁𝗶𝘁𝗮𝘁𝗶𝘃𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀, 𝗮𝗻𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗖𝗵𝗲𝗺𝗶𝘀𝘁𝗿𝘆 , I specialize in delivering impactful, data-driven solutions that bridge the gap between research and industry. My journey has been shaped by a strong foundation in academia, including a 𝗣𝗵𝗗 𝗶𝗻 𝗣𝗵𝘆𝘀𝗶𝗰𝘀 (𝗗𝗿. 𝗿𝗲𝗿. 𝗻𝗮𝘁.) from the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗕𝗿𝗲𝗺𝗲𝗻, 𝗚𝗲𝗿𝗺𝗮𝗻𝘆, and 𝗣𝗼𝘀𝘁𝗱𝗼𝗰𝘁𝗼𝗿𝗮𝗹 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗮𝘁 𝗩𝗮𝗻𝗱𝗲𝗿𝗯𝗶𝗹𝘁 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆, 𝗨𝗦𝗔, where I led a project focused on applying Machine Learning to advance Computational Chemistry.
