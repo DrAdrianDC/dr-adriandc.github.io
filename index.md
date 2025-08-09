@@ -15,8 +15,8 @@ Beyond technical expertise, I bring a global perspective, a commitment to innova
 ---
 
 <p align="center">
-👉 <a href="portfolio.md">View Portfolio</a> | 
-<a href="publications.md">Publications</a> | 
-<a href="cv.md">CV</a> | 
-<a href="contact.md">Contact</a>
+👉 <a href="portfolio.html">View Portfolio</a> | 
+<a href="publications.html">Publications</a> | 
+<a href="cv.html">CV</a> | 
+<a href="contact.html">Contact</a>
 </p>
