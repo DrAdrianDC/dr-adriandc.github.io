@@ -1,11 +1,11 @@
-title: "Adrian Dominguez Castro, PhD"
+title: "Personal Website"
 description: "Data Scientist | Machine Learning "
 theme: minima
 author: Adrian Dominguez Castro, PhD
 
 nav:
   - Home: index.md
-  - Projects: projects.md
-  - CV: cv.md
+  - Portfolio: projects.md
   - Publications: publications.md
+  - CV: cv.md 
   - Contact: contact.md
