@@ -4,7 +4,6 @@ title: Contact
 ---
 
 
-# Contact
 
 # 📌 Let’s connect!
 
