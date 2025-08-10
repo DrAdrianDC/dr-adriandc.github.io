@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="profile.jpg" alt="Adrian Dominguez Castro, PhD" 
+  <img src="images/profile.jpg" alt="Adrian Dominguez Castro, PhD" 
        style="width:180px; height:180px; object-fit:cover; border-radius:50%; border: 2px solid #ccc;">
 </p>
 
