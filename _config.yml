@@ -1,7 +1,11 @@
-title: "Adrian Dominguez Castro, PhD"
-description: "Data Scientist | Machine Learning | Artificial Intelligence"
+title: "Personal Website"
+description: "Data Scientist | Machine Learning"
 theme: minima
-author: "Adrian Dominguez Castro, PhD"
+author: Adrian Dominguez Castro, PhD
 
-# Optional settings
-show_excerpts: true
+header_pages:
+  - portfolio.md
+  - publications.md
+  - cv.md
+  - contact.md
+
