@@ -4,6 +4,8 @@
        style="width:180px; height:180px; object-fit:cover; border-radius:50%; border: 2px solid #ccc;">
 </p>
 
+**Adrian Dominguez Castro, PhD**
+
 With over a decade of experience in **Machine Learning**, **Python**, **Quantitative Analytics**, and **Computational Chemistry**, I specialize in delivering impactful, data-driven solutions that bridge the gap between research and industry. My journey has been shaped by a strong foundation in academia, including a **PhD in Physics (Dr. rer. nat.)** from the **University of Bremen, Germany**, and **Postdoctoral Research** at **Vanderbilt University, USA**, where I led a project focused on applying Machine Learning to advance Computational Chemistry.
 
 As the Founder and Principal Consultant of **ADC Scientific Consulting**, I work with organizations to apply **Data Science** and **Machine Learning** to real-world challenges in technology, quantitative finance, and other fields. My goal is to bridge the gap between cutting-edge research and practical, scalable solutions that drive measurable impact.
