@@ -8,7 +8,7 @@ title: Portfolio
 
 - [Anomaly Detection WTI Oil Prices using LSTM Autoencoders]([https://github.com/dr-adriandc/breast-cancer-svm](https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI%20Oil%20Prices%20Anomaly%20Detection))
 
-  ![Breast Cancer](images/breast-cancer.png)
+  ![Anomaly Detection WTI Oil Prices](images/WTI-Anomaly-Detection-ML.jpg)
   
 Oil prices are a constant source of volatility, but what if we could identify oil price disruptions before they happen?
 
