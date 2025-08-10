@@ -24,8 +24,3 @@ Identifying these anomalies can offer valuable insights for energy traders, risk
 ✅ Practical applications for market forecasting 
 ✅ A proactive approach to risk management
 
-- 📊 [COVID-19 SQL Analysis](https://github.com/dr-adriandc/covid19-sql)  
-  Time-series exploration of COVID data using advanced SQL queries and visualizations.
-
-- ⚾ [MLB Analytics Dashboard](https://github.com/dr-adriandc/mlb-analytics)  
-  Interactive team-level analysis using Plotly with embedded logos and prediction tools.
