@@ -6,7 +6,7 @@ title: Portfolio
 
 # 📂 Featured Projects
 
-- [Anomaly Detection WTI Oil Prices using LSTM Autoencoders]([https://github.com/dr-adriandc/breast-cancer-svm](https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI%20Oil%20Prices%20Anomaly%20Detection))
+- [Anomaly Detection WTI Oil Prices using LSTM Autoencoders](https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI%20Oil%20Prices%20Anomaly%20Detection)
 
  <img src="images/WTI-Anomaly-Detection-ML.jpg" alt="Anomaly Detection WTI Oil Prices" style="width:400px;"/>
 
