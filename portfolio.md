@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-You can take a look at my Portfolio and some of my projects in the link below.
+Check my Portfolio and some of my projects in the link below.
 
 [Data Science, AI and Machine Learning Portfolio](https://github.com/DrAdrianDC/Portfolio-Machine_Learning)
   
