@@ -22,7 +22,6 @@ For the full list of my research publications, please visit my  [Google Scholar 
 </table>
 
 
-## 📚 Selected Publications
 
 
 ## 📚 Selected Publications
