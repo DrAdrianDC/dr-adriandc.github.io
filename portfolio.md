@@ -21,8 +21,6 @@ title: Portfolio
     <img src="images/wine-quality-ml.png" alt="Wine Quality Prediction" width="300"><br>
     Wine Quality Prediction
   </a>
-  <br>
-  <small><i>Machine Learning</i> Project</small>
 </td>
 
 <td align="center" width="33%">
@@ -30,8 +28,6 @@ title: Portfolio
     <img src="images/wti-anomaly-detection-ml.png" alt="WTI Oil Prices Anomaly Detection" width="300"><br>
     WTI Oil Prices Anomaly Detection
   </a>
-  <br>
-  <small><i>Machine Learning</i> Project</small>
 </td>
 
 <td align="center" width="33%">
@@ -39,8 +35,6 @@ title: Portfolio
     <img src="images/dft-ml.png" alt="DFT Meets Machine Learning" width="300"><br>
     DFT Meets Machine Learning
   </a>
-  <br>
-  <small><i>Computational Chemistry</i> Project</small>
 </td>
 </tr>
 </table>
