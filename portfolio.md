@@ -27,7 +27,7 @@ You'll find a collection of End-to-End Machine Learning and Data Science project
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI%20Oil%20Prices%20Anomaly%20Detection">
-    <img src="images/b.jpg" alt="WTI Oil Prices Anomaly Detection" width="300"><br>
+    <img src="images/wti-anomaly-detection-ml.jpg" alt="WTI Oil Prices Anomaly Detection" width="300"><br>
   </a>
   <em>WTI Oil Prices Anomaly Detection<br>
   <small><i>Machine Learning</i> Project</small></em>
