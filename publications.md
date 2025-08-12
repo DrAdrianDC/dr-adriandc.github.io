@@ -8,6 +8,22 @@ title: Publications
 For the full list of my research publications, please visit my  [Google Scholar Profile](https://scholar.google.com/citations?user=OEWI__oAAAAJ&hl=en&oi=ao)
 
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <img src="images/nanoscale_cover.jpg" alt="Nanoscale Journal Cover" width="300"><br>
+  <em>Selected Cover – <a href="https://doi.org/10.1039/d1nr00213a">Photoinduced charge-transfer in chromophore-labeled gold nanoclusters</a><br><small><i>Nanoscale</i> (2021)</small></em>
+</td>
+<td align="center" width="50%">
+  <img src="images/acscatal_cover.jpg" alt="ACS Catalysis Journal Cover" width="300"><br>
+  <em>Selected Cover – <a href="https://doi.org/10.1021/acscatal.0c04098">Ultrafast Real-Time Dynamics of CO Oxidation over an Oxide Photocatalyst</a><br><small><i>ACS Catalysis</i> (2020)</small></em>
+</td>
+</tr>
+</table>
+
+
+## 📚 Selected Publications
+
 
 ## 📚 Selected Publications
 
