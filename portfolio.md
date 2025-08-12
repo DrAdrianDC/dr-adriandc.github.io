@@ -34,7 +34,7 @@ You'll find a collection of End-to-End Machine Learning and Data Science project
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-6-DFT%20Meets%20Machine%20Learning">
-    <img src="images/c.jpg" alt="DFT Meets Machine Learning" width="300"><br>
+    <img src="images/dft-ml.jpg" alt="DFT Meets Machine Learning" width="300"><br>
   </a>
   <em>DFT Meets Machine Learning<br>
   <small><i>Computational Chemistry</i> Project</small></em>
