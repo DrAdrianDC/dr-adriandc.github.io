@@ -20,7 +20,7 @@ You'll find a collection of End-to-End Machine Learning and Data Science project
 <tr>
 <td align="center" width="33%">
   <a href="https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-2-Wine-Quality-Prediction">
-    <img src="images/a.jpg" alt="Wine Quality Prediction" width="300"><br>
+    <img src="images/wine-quality-ml.jpg" alt="Wine Quality Prediction" width="300"><br>
   </a>
   <em>Wine Quality Prediction<br>
   <small><i>Machine Learning</i> Project</small></em>
