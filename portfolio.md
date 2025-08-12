@@ -14,7 +14,7 @@ You'll find a collection of End-to-End Machine Learning and Data Science project
 
 
 
-
+## Selected Projects
 
 <table align="center">
 <tr>
