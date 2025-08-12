@@ -12,7 +12,7 @@ For the full list of my research publications, please visit my  [Google Scholar 
 <tr>
 <td align="center" width="50%">
   <img src="images/nanoscale_cover.png" alt="Nanoscale Journal Cover" width="300"><br>
-  <em>Selected Cover – <a href="https://doi.org/10.1039/d1nr00213a">Photoinduced charge-transfer in chromophore-labeled gold nanoclusters</a><br><small><i>Nanoscale</i> (2021)</small></em>
+  <em>Selected Cover – <a href="https://doi.org/10.1039/d1nr00213a">Photoinduced charge-transfer in chromophore-labeled gold nanoclusters: quantum evidence of the critical role of ligands and vibronic couplings</a><br><small><i>Nanoscale</i> (2021)</small></em>
 </td>
 <td align="center" width="50%">
   <img src="images/acscatal_cover.png" alt="ACS Catalysis Journal Cover" width="300"><br>
