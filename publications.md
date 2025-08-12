@@ -9,7 +9,7 @@ For the full list of my research publications, please visit my  [Google Scholar 
 
 
 
-## 📚 Publications
+## 📚 Selected Publications
 
 1. **Adrian Dominguez-Castro**. DFT and machine learning for predicting hydrogen adsorption energies on rocksalt complex oxides. *Theor. Chem. Acc.* **143**, 50 (2024). [doi:10.1007/s00214-024-03124-x](https://doi.org/10.1007/s00214-024-03124-x)
 
