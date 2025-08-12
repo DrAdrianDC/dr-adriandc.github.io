@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: nowrap; margin-top: 20px; width: 100%;">
   <div>
     <img src="images/profile.jpg" alt="Adrian Dominguez Castro, PhD" 
          style="width:180px; height:180px; object-fit:cover; border-radius:50%; border: 2px solid #ccc;">
   </div>
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 300px;">
     <h2 style="margin-top: 0;">Adrian Dominguez Castro, PhD</h2>
     <p>
       I am a <strong>data scientist</strong> with over a decade of experience in <strong>Machine Learning</strong>,
@@ -21,6 +21,7 @@
     </p>
   </div>
 </div>
+
 
 ---
 
