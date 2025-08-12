@@ -6,7 +6,7 @@ title: Portfolio
 
 <img src="images/portfolio.png" alt="Data Science, AI and Machine Learning Portfolio" style="width:600px;"/>
 
-Check my Portfolio and some of my projects in the link below.
+For a complete description, please check my Portfolio for Data Sciencce and Machine Learning in the link below.
 
 [Data Science, AI and Machine Learning Portfolio](https://github.com/DrAdrianDC/Portfolio-Machine_Learning)
   
