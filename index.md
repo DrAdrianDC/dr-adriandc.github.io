@@ -10,6 +10,9 @@ I am a **data scientist** with over a decade of experience in **Machine Learning
 
 I’ve worked across five countries (**Cuba, Canada, The Netherlands, Germany, and the USA**), contributing to multidisciplinary projects and co-authoring peer-reviewed publications in machine learning, quantum chemistry, and computational simulations. 
 
+
+As the Founder and Principal Consultant of 𝗔𝗗𝗖 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝗳𝗶𝗰 𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗶𝗻𝗴, I work with organizations to apply 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 and 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 to real-world challenges in technology, quantitative finance, and other fields. My goal is to bridge the gap between cutting-edge research and practical, scalable solutions that drive measurable impact.
+
 ---
 
 <p align="center">
