@@ -24,7 +24,7 @@ title: Portfolio
 </td>
 
 <td align="center" width="33%">
-  <a href="https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI%20Oil%20Prices%20Anomaly%20Detection">
+  <a href="https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI-Oil-Prices-Anomaly-Detection">
     <img src="images/wti-anomaly-detection-ml.png" alt="WTI Oil Prices Anomaly Detection" width="300"><br>
     WTI Oil Prices Anomaly Detection
   </a>
