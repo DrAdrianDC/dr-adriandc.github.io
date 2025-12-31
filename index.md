@@ -14,7 +14,7 @@ My journey began with a **B.Sc. in Radiochemistry** from **InSTEC** – Universi
 I have conducted research and work across five countries (**Cuba, Canada, The Netherlands, Germany, and the USA**). My work has resulted in multiple peer-reviewed publications in machine learning, quantum chemistry, and computational simulations.
 
 ### Current Focus: AI for Science
-As a **Scientific AI Consultant** at **ADC Scientific Consulting**, I architect end-to-end AI solutions for venture studios and elite research organizations. 
+Through my independent practice, **ADC Scientific Consulting**, I architect end-to-end AI solutions for venture studios and elite research organizations. 
 
 **Selected Engagement:** **Decimal.health — Venture Studio (AccelerOnc Studio, Moffitt Cancer Center)**
 * **Architected RAG Search Systems** to optimize discovery in clinical and scientific datasets, focusing on high-dimensional data retrieval.
