@@ -21,9 +21,7 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 * **Developed Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion and scientific discovery processes.
 * **Engineered Robust Data Pipelines** that ensure data integrity for LLM-based discovery in complex medical and scientific domains.
 
-My goal is to transform cutting-edge research into practical, robust engineering that drives measurable impact in the scientific community.
-
-
+My mission is to accelerate the pace of scientific discovery by building intelligent systems that bridge the gap between theoretical breakthroughs and production-ready AI engineering
 
 ---
 
