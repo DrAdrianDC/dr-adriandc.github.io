@@ -3,14 +3,26 @@
        style="width:180px; height:180px; object-fit:cover; border-radius:50%; border: 2px solid #ccc;">
 </p>
 
-# About me
+# About Me
 
-I am a **data scientist** with over a decade of experience in **Machine Learning**, **Data Analysis**, **Python programming**, and **Computational Chemistry**, specializing in delivering impactful, data-driven solutions. My academic journey began with a **BSc in Radiochemistry** from **InSTEC – University of Havana, Cuba**, followed by a **PhD in Physics (Dr. rer. nat.)** from the **University of Bremen, Germany**, and **Postdoctoral Research** at **Vanderbilt University, USA**. At Vanderbilt, I led a project focused on applying Machine Learning to advance Computational Chemistry, bridging the gap between data science and molecular modeling.
+[cite_start]I am a **Machine Learning Researcher** specializing in bridging the gap between fundamental science and production-grade AI[cite: 3]. [cite_start]With a **Ph.D. in Physics** and a background in **Computational Chemistry**, I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data[cite: 3, 26, 32].
 
-I’ve worked across five countries (**Cuba, Canada, The Netherlands, Germany, and the USA**), contributing to multidisciplinary projects and co-authoring peer-reviewed publications in machine learning, quantum chemistry, and computational simulations. 
+### Academic Foundation
+[cite_start]My journey began with a **B.Sc. in Radiochemistry** from InSTEC – University of Havana[cite: 27, 29]. [cite_start]I later earned my **Ph.D. in Physics (Dr. rer. nat.)** from the **University of Bremen**, Germany[cite: 26, 29]. [cite_start]During my **Postdoctoral Research at Vanderbilt University**, I led the integration of Density Functional Theory (DFT) and Machine Learning to predict material properties with over 85% accuracy, translating complex molecular modeling into scalable data-driven insights[cite: 14, 15].
+
+### Global Impact & Research
+[cite_start]I have conducted research across five countries (**Cuba, Canada, The Netherlands, Germany, and the USA**)[cite: 24]. [cite_start]My work has resulted in multiple peer-reviewed publications in machine learning, quantum chemistry, and computational simulations, focusing on enhancing processing efficiency and predictive accuracy in scientific workflows[cite: 21, 23].
+
+### Current Focus: AI for Science
+[cite_start]As a **Scientific AI Consultant** at **ADC Scientific Consulting**, I architect end-to-end AI solutions for venture studios and elite research organizations[cite: 8, 9]. My recent work includes:
+
+* [cite_start]**Architecting RAG Search Systems** for the **Moffitt Cancer Center** to optimize discovery in clinical and scientific datasets[cite: 11, 12].
+* [cite_start]**Developing Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion and management[cite: 32].
+* [cite_start]**Engineering Robust Data Pipelines** that ensure integrity for LLM-based discovery in high-dimensional domains[cite: 13, 32].
+
+[cite_start]My goal is to transform cutting-edge research into practical, robust engineering that drives measurable impact in the scientific community[cite: 3].
 
 
-As the Founder and Principal Consultant of 𝗔𝗗𝗖 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝗳𝗶𝗰 𝗖𝗼𝗻𝘀𝘂𝗹𝘁𝗶𝗻𝗴, I work with organizations to apply 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 and 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 to real-world challenges in technology, quantitative finance, and other fields. My goal is to bridge the gap between cutting-edge research and practical, scalable solutions that drive measurable impact.
 
 ---
 
