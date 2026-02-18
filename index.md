@@ -3,9 +3,26 @@
        style="width:180px; height:180px; object-fit:cover; border-radius:50%; border: 2px solid #ccc;">
 </p>
 
+
 ## About Me
 
-I am a **Machine Learning Researcher** working at the intersection of fundamental science and real-world AI systems. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, I design and build scalable discovery systems using advanced **RAG architectures**, **agentic workflows (LangGraph)**, and automated pipelines for high-dimensional scientific data.
+I build **production-ready AI systems** that turn complex scientific and high-dimensional data into actionable solutions. I specialize in **LLMs, RAG pipelines, LangChain / LangGraph, and automated ML workflows**, bridging advanced modeling with real-world applications.
+
+## Academic & Technical Foundation
+I hold a **Ph.D. in Physics** with a background in **Computational Chemistry** and a **B.Sc. in Radiochemistry** from InSTEC – University of Havana (Cuba). During my **Postdoctoral Research at Vanderbilt University (USA)**, I integrated advanced simulations with Machine Learning to create **scalable, data-driven AI systems**.
+
+## Current Focus: AI for Science
+Through **ADC Scientific Consulting**, I architect **end-to-end AI solutions** for venture studios and research organizations, building **robust, scalable, and interpretable pipelines** for LLM-driven discovery.
+
+### Selected Engagements
+- **Decimal.health — Venture Studio (AccelerOnc, Moffitt Cancer Center)**
+  - Architected RAG-based search systems for complex clinical and scientific datasets
+  - Engineered automated pipelines for high-fidelity data ingestion
+  - Developed agentic workflows using **LangGraph** to streamline scientific reasoning
+
+## Mission
+I accelerate scientific discovery by building intelligent systems that **turn research insights into production-ready AI solutions** in high-stakes scientific and biomedical domains.
+
 
 ### Academic Foundation
 My journey began with a **B.Sc. in Radiochemistry** from **InSTEC** – University of Havana (Cuba). I later earned my **Ph.D. in Physics (Dr. rer. nat.)** from the **University of Bremen** (Germany). During my **Postdoctoral Research at Vanderbilt University (USA)**, I led the integration of Density Functional Theory (DFT) and Machine Learning to predict material properties with over **85% accuracy**, translating molecular-scale simulations into scalable, data-driven systems.
