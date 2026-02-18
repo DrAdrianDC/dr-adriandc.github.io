@@ -11,8 +11,10 @@
 
 I build **production-ready AI systems** that turn complex scientific and high-dimensional data into actionable solutions. I specialize in **LLMs, RAG pipelines, LangChain / LangGraph, and automated ML workflows**, bridging advanced modeling with real-world applications.
 
+
 ## Current Focus: AI for Science
 Through **ADC Scientific Consulting**, I architect **end-to-end AI solutions** for venture studios and research organizations, building **robust, scalable, and interpretable pipelines** for LLM-driven discovery.
+
 
 ### Selected Engagements
 - **Decimal.health — Venture Studio (AccelerOnc, Moffitt Cancer Center)**
@@ -21,8 +23,10 @@ Through **ADC Scientific Consulting**, I architect **end-to-end AI solutions** f
   - Developed agentic workflows using **LangGraph** to streamline scientific reasoning
 
 
+
 ## Academic Foundation
 My journey began with a **B.Sc. in Radiochemistry** from **InSTEC – University of Havana (Cuba)**. I later earned my **Ph.D. in Physics** with a background in **Computational Chemistry** from the **University of Bremen (Germany)**. During my **Postdoctoral Research at Vanderbilt University (USA)**, I integrated advanced simulations with Machine Learning to create **scalable, data-driven AI systems**.
+
 
 
 ## Global Impact & Research
