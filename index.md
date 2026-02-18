@@ -6,7 +6,8 @@
 
 ## About Me
 
-**AI & ML Engineer | AI Systems | LLMs & RAG | Ph.D.**
+**AI & ML Engineer | AI Systems | LLMs & RAG | *Ph.D.***
+
 
 I build **production-ready AI systems** that turn complex scientific and high-dimensional data into actionable solutions. I specialize in **LLMs, RAG pipelines, LangChain / LangGraph, and automated ML workflows**, bridging advanced modeling with real-world applications.
 
