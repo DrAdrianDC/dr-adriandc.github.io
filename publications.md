@@ -26,7 +26,7 @@ title: Publications
 
 ## 📚 Selected Publications
 
-- Helena Gleissner, Michael Wagstaffe, Lukas Wenthaus, **Adrian Dominguez-Castro**, et al. Dynamics of CO photooxidation to CO2 on rutile (110). Commun Chem (2026). [doi.org/10.1038/s42004-026-01901-2](https://doi.org/10.1038/s42004-026-01901-2)
+- Helena Gleissner, Michael Wagstaffe, Lukas Wenthaus, **Adrian Dominguez-Castro**, et al. Dynamics of CO photooxidation to CO_{2} on rutile (110). Commun Chem (2026). [doi.org/10.1038/s42004-026-01901-2](https://doi.org/10.1038/s42004-026-01901-2)
 
 - **Adrian Dominguez-Castro**. DFT and machine learning for predicting hydrogen adsorption energies on rocksalt complex oxides. *Theor. Chem. Acc.* **143**, 50 (2024). [doi:10.1007/s00214-024-03124-x](https://doi.org/10.1007/s00214-024-03124-x)
 
