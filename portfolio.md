@@ -39,3 +39,11 @@ title: Portfolio
 </tr>
 </table>
 
+## AI Engineering Projects
+
+### Agentic Search Graph
+A production-ready ReAct agent with persistent memory, web search grounding, and LangGraph Studio integration.
+
+- **Stack:** LangGraph · Llama 3.3 70B (Groq) · Tavily · Streamlit
+- **Key engineering:** MemorySaver checkpointing · uuid4 session isolation · 58 tests with CI (passing) · compatible with LangGraph dev / Studio
+- [GitHub Repository](https://github.com/DrAdrianDC/langgraph_lab/tree/main/agentic_search_graph)
