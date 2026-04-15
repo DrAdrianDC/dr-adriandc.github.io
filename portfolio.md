@@ -29,14 +29,14 @@ title: Portfolio
   </a>
 </td>
 
-<tr>
+!<tr>
 <td align="center" width="33%">
   <a href="https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-2-Wine-Quality-Prediction">
     <img src="images/wine-quality-ml.png" alt="Wine Quality Prediction" width="300"><br>
     Wine Quality Prediction
   </a>
 </td>
-</tr>
+!</tr>
 </table>
 
 ## AI Engineering Projects
