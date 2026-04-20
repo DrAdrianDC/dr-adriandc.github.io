@@ -24,7 +24,7 @@ Through **ADC Scientific Consulting**, I architect **end-to-end AI solutions** f
 
 
 ## Academic Foundation
-My journey began with a **B.Sc. in Radiochemistry** from **InSTEC – University of Havana (Cuba)**. I later earned my **Ph.D. in Physics** with a background in **Computational Chemistry** from the **University of Bremen (Germany)**. During my **Postdoctoral Research at Vanderbilt University (USA)**, I integrated advanced simulations with Machine Learning to create **scalable, data-driven AI systems**.
+My journey began with a **B.Sc. in Radiochemistry** from **InSTEC – University of Havana (Cuba)**. I later earned my **Ph.D. in Theoretical Physics** from the **University of Bremen (Germany)**. During my **Postdoctoral Research at Vanderbilt University (USA)**, I integrated advanced simulations in **Computational Chemistry** with Machine Learning to create **scalable, data-driven AI systems**.
 
 
 
