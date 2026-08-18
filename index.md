@@ -19,7 +19,7 @@ Partnered directly with executive stakeholders and cross-functional teams to tra
 
 #### Selected Engagements:
 
-* **Healthcare & Research AI:** Decimal.health | OncoBrain, AccelerOnc Studio, Moffitt Cancer Center
+* **Healthcare & Research AI:** Decimal.health\OncoBrain, AccelerOnc Studio, Moffitt Cancer Center
   
   * Architected end-to-end hybrid RAG systems (Dense + BM25, Cohere Rerank) for unstructured oncology data, achieving high context retrieval precision across complex clinical records.
   * Engineered automated ingestion pipelines using deep-parsing web scrapers and self-healing multi-agent validation loops, reducing data processing latency by 90%.
