@@ -12,7 +12,6 @@
 * **Impact:** Building end-to-end AI architectures that turn complex, high-dimensional scientific data into production-ready business assets.
 
 
-### Selected Engagements
 ### Principal AI/ML Engineering Contractor (Sept 2024 – Present)
 **Independent AI/ML Consulting**
 
