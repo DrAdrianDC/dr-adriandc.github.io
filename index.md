@@ -13,12 +13,21 @@
 
 
 ### Selected Engagements
-- **Decimal.health — Venture Studio (AccelerOnc, Moffitt Cancer Center)**
-  - Architected RAG-based search systems for complex clinical and scientific datasets
-  - Engineered automated pipelines for high-fidelity data ingestion
-  - Developed agentic workflows using **LangGraph** to streamline scientific reasoning
+### Principal AI/ML Engineering Contractor (Sept 2024 – Present)
+**Independent AI/ML Consulting**
 
+Partnered directly with executive stakeholders and cross-functional teams to translate complex business problem statements into technical AI/ML roadmaps and production-grade architectures[cite: 1].
 
+#### Selected Engagements:
+
+* **Healthcare & Research AI:** Decimal.health | OncoBrain, AccelerOnc Studio, Moffitt Cancer Center
+  * Architected end-to-end hybrid RAG systems (Dense + BM25, Cohere Rerank) for unstructured oncology data, achieving high context retrieval precision across complex clinical records.
+  * Engineered automated ingestion pipelines using deep-parsing web scrapers and self-healing multi-agent validation loops, reducing data processing latency by 90%.
+  * Built autonomous AI agents using LangGraph with deterministic cyclic evaluation and self-correction loops for automated extraction, reducing structured extraction error rates by 30%.
+
+* **Fintech AI:** Stealth Mode Startup
+  * Engineered production-grade financial time series pipelines (LSTM Autoencoders, RNNs) for market price anomaly detection and forecasting, covering automated ingestion, feature engineering, and model validation; created open-source [WTI Oil Price Anomaly Detection] reference implementation.
+  * Evaluated modeling trade-offs (traditional ML vs. Deep Learning vs. GenAI) and built clean, production-grade Python code integrated into client infrastructure.
 
 ## Academic Foundation
 My journey began with a **B.Sc. in Radiochemistry** from **InSTEC – University of Havana (Cuba)**. I later earned my **Ph.D. in Theoretical Physics** from the **University of Bremen (Germany)**. During my **Postdoctoral Research at Vanderbilt University (USA)**, I integrated advanced simulations in **Computational Chemistry** with Machine Learning to create **scalable, data-driven AI systems**.
