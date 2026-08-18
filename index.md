@@ -25,7 +25,8 @@ Partnered directly with executive stakeholders and cross-functional teams to tra
   * Built autonomous AI agents using LangGraph with deterministic cyclic evaluation and self-correction loops for automated extraction, reducing structured extraction error rates by 30%.
 
 * **Fintech AI:** Stealth Mode Startup
-  * Engineered production-grade financial time series pipelines (LSTM Autoencoders, RNNs) for market price anomaly detection and forecasting, covering automated ingestion, feature engineering, and model validation; created open-source [WTI Oil Price Anomaly Detection] reference implementation.
+  * Engineered production-grade financial time series pipelines (LSTM Autoencoders, RNNs) for market price anomaly detection and forecasting, covering automated ingestion, feature engineering, and model validation; created open-source [[WTI Oil Price Anomaly Detection]](https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI-Oil-Prices-Anomaly-Detection) reference implementation.
+    
   * Evaluated modeling trade-offs (traditional ML vs. Deep Learning vs. GenAI) and built clean, production-grade Python code integrated into client infrastructure.
 
 ## Academic Foundation
