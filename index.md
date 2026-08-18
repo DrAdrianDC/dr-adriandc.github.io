@@ -15,16 +15,18 @@
 ### Principal AI/ML Engineering Contractor (Sept 2024 – Present)
 **Independent AI/ML Consulting**
 
-Partnered directly with executive stakeholders and cross-functional teams to translate complex business problem statements into technical AI/ML roadmaps and production-grade architectures[cite: 1].
+Partnered directly with executive stakeholders and cross-functional teams to translate complex business problem statements into technical AI/ML roadmaps and production-grade architectures.
 
 #### Selected Engagements:
 
 * **Healthcare & Research AI:** Decimal.health | OncoBrain, AccelerOnc Studio, Moffitt Cancer Center
+  
   * Architected end-to-end hybrid RAG systems (Dense + BM25, Cohere Rerank) for unstructured oncology data, achieving high context retrieval precision across complex clinical records.
   * Engineered automated ingestion pipelines using deep-parsing web scrapers and self-healing multi-agent validation loops, reducing data processing latency by 90%.
   * Built autonomous AI agents using LangGraph with deterministic cyclic evaluation and self-correction loops for automated extraction, reducing structured extraction error rates by 30%.
 
 * **Fintech AI:** Stealth Mode Startup
+  
   * Engineered production-grade financial time series pipelines (LSTM Autoencoders, RNNs) for market price anomaly detection and forecasting, covering automated ingestion, feature engineering, and model validation; created open-source [[WTI Oil Price Anomaly Detection]](https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI-Oil-Prices-Anomaly-Detection) reference implementation.
     
   * Evaluated modeling trade-offs (traditional ML vs. Deep Learning vs. GenAI) and built clean, production-grade Python code integrated into client infrastructure.
