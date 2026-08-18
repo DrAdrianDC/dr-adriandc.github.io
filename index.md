@@ -6,13 +6,10 @@
 
 ## About Me
 
-**Data Scientist & AI/ML Engineer – LLM Systems, RAG & Agentic Workflows – AI for Science – Ph.D**
+**Quantitative Data Scientist & AI/ML Engineer (Ph.D.)**
 
-I build **production-ready AI systems** that turn complex scientific and high-dimensional data into actionable solutions. I specialize in **LLMs, RAG pipelines, LangChain / LangGraph, and automated ML workflows**, bridging advanced modeling with real-world applications.
-
-
-## Current Focus: AI for Science
-Through **ADC Scientific Consulting**, I architect **end-to-end AI solutions** for venture studios and research organizations, building **robust, scalable, and interpretable pipelines** for LLM-driven discovery.
+* **Core Focus:** Production LLM Systems, Hybrid RAG, Agentic Workflows & Quantitative ML.
+* **Impact:** Building end-to-end AI architectures that turn complex, high-dimensional scientific data into production-ready business assets.
 
 
 ### Selected Engagements
