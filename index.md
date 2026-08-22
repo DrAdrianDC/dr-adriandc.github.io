@@ -29,7 +29,7 @@ Partnered directly with executive stakeholders and cross-functional teams to tra
   
   * Engineered production-grade financial time-series pipelines (LSTM Autoencoders, RNNs, XGBoost) for market price anomaly detection and forecasting across diverse assets, covering automated ingestion, feature engineering, and model validation; abstracted key pipeline patterns into an open-source reference PoC [[WTI Oil Price Anomaly Detection]](https://github.com/DrAdrianDC/Portfolio-Machine_Learning/tree/main/Project-3-WTI-Oil-Prices-Anomaly-Detection).
     
-  * Evaluated modeling trade-offs (traditional ML vs. Deep Learning vs. GenAI) and built clean, production-grade Python code integrated into client infrastructure.
+  * Conducted systematic modeling trade-off evaluations (Traditional ML vs. Deep Learning vs. GenAI) for latency, interpretability, and compute costs, delivering modular Python code seamlessly integrated into client infrastructure.
 
 ## Academic Foundation
 My journey began with a **B.Sc. in Radiochemistry** from **InSTEC – University of Havana (Cuba)**. I later earned my **Ph.D. in Theoretical Physics** from the **University of Bremen (Germany)**. During my **Postdoctoral Research at Vanderbilt University (USA)**, I integrated advanced simulations in **Computational Chemistry** with Machine Learning to create **scalable, data-driven AI systems**.
