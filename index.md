@@ -12,7 +12,7 @@
 * **Impact:** Building end-to-end AI architectures that turn complex, high-dimensional scientific data into production-ready business assets.
 
 
-### Lead AI/ML Engineer  (Sept 2024 – Present)
+### Lead Data & AI/ML Engineer  (Sept 2024 – Present)
 **Independent AI/ML Consulting**
 
 Partnered directly with executive stakeholders and cross-functional teams to translate complex business problem statements into technical AI/ML roadmaps and production-grade architectures.
